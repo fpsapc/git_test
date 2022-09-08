@@ -1,0 +1,16 @@
+.flex-container{
+    display: flex;
+    
+}
+.hello
+{
+color:blue;
+background-color: brown;
+text-align: center;
+width: 500;
+height: auto;
+margin-right:20px;
+margin-bottom: 20px red;
+padding-block: 2px blue;
+border: 2px black;
+}
